@@ -49,7 +49,7 @@ address:
   - line: Potomac, MD
 
 # Credits content
-credits: 'Based on an open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Based on an open source theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
