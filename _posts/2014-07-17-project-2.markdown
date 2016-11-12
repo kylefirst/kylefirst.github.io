@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fraudlytics
+title: Fraudlytics D.C Fraud Prediction
 modal-id: 2
 date: 2014-07-17
 img: fraud.png
