@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Certification
-modal-id: 3
-date: 2014-07-16
-img: cert.png
+title: Plane Crash WebGL Globe
+modal-id: 1
+date: 2016
+img: airplane.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

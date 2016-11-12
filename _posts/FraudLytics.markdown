@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Plane Crash WebGL Globe
-modal-id: 1
-date: 2014-07-18
-img: airplane.png
+title: Fraudlytics D.C Fraud Prediction
+modal-id: 2
+date: 2016
+img: fraud.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
