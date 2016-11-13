@@ -1,0 +1,12 @@
+---
+layout: default
+title: Plane Crash WebGL Globe
+modal-id: 1
+date: 2014-07-18
+img: airplane.png
+alt: image-alt
+project-date: November 2016
+tech: Java, Python, JavaScript, HTML, WebGL, Google API
+description: I visualized data on airplane crashes since 1908 using the WebGL Globe and hosted the application on Heroku using Flask(Python). See it live <a href="https://global-plane-crash-webgl.herokuapp.com/" target="_blank">here</a>.
+
+---
