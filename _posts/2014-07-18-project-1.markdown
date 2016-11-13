@@ -7,6 +7,6 @@ img: airplane.png
 alt: image-alt
 project-date: November 2016
 tech: Java, Python, JavaScript, HTML, WebGL, Google API
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/" target="_blank">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: I visualized data on airplane crashes since 1908 using the WebGL Globe and hosted the application on Heroku using Flask(Python). See it live <a href="https://global-plane-crash-webgl.herokuapp.com/" target="_blank">here</a>.
 
 ---
