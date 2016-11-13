@@ -7,6 +7,6 @@ img: cert.png
 alt: image-alt
 project-date: August 2016
 tech: MySQL
-description: Over the summer of 2016, I learned about database security, optimization, and management and took the MySQL 5.6 certification test. You can see my certification <a href="https://www.youracclaim.com/user/kyle-liu">here</a>!
+description: Over the summer of 2016, I learned about database security, optimization, and management and took the MySQL 5.6 certification test. View my certification <a href="https://www.youracclaim.com/user/kyle-liu" target="_blank">here</a>.
 
 ---
