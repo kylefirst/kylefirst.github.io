@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Certification
-modal-id: 3
-date: 2014-07-16
+modal-id: 4
+date: 2016-08-04
 img: cert.png
 alt: image-alt
 project-date: August 2016

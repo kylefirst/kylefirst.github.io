@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Plane Crash WebGL Globe
-modal-id: 1
-date: 2014-07-18
+modal-id: 2
+date: 2016-11-01
 img: airplane.png
 alt: image-alt
 project-date: November 2016
