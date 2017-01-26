@@ -1,0 +1,12 @@
+---
+layout: default
+title: Plane Crash WebGL Globe
+modal-id: 1
+date: 2014-07-18
+img: c2go.png
+alt: image-alt
+project-date: November 2016
+tech: Java, Python, AWS, Arduino, Speech API
+description: My team and I build an banking app that translates voice into QR codes that improves the cash withdrawal process. I worked on building QR code generation and detection for an Arduino ATM. See the github repository <a href="https://github.com/kylefirst/capitalToGo" target="_blank">here</a>.
+
+---
