@@ -1,0 +1,13 @@
+---
+layout: default
+title: DIG
+modal-id: 1
+date: 2017-06-01
+img: dig.png
+alt: image-alt
+project-date: August 2017
+tech: Polymer, Javascript, Node.js, ElasticSearch
+description: I designed modular open-sourced Polymer components for the <a href="http://usc-isi-i2.github.io/dig/" target="_blank">dig</a> domain specific deep web search tool over the summer of 2017. The major feature I built was an export button that decreased search time by up to 400% and increased results from 25 to over 10,000. Check out the customizable Search UI on github <a href="https://github.com/NextCenturyCorporation/dig-ui" target="_blank">here</a> and the Polymer element repository <a href="https://github.com/DigElements" target="_blank">here</a>.
+
+
+---
