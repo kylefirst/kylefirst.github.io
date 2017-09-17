@@ -1,0 +1,13 @@
+---
+layout: default
+title: Parkinsons Telemonitoring
+modal-id: 1
+date: 2017-09-09
+img: pd.png
+alt: image-alt
+project-date: September 2017
+tech: Android, Firebase, Python
+description: At MedHacks 2017 my team and I built a Android app that used accelerometer and voice input to track tremor levels of Parkinson patients and recommend appropriate follow-up action. I was responsible was the development of the Android app and UI/UX design. We won the access to care track and 3rd prize overall. Check out the project description on Devpost <a href="https://devpost.com/software/parkinson-s-telemonitoring" target="_blank">here</a> and see the Github repository <a href="https://github.com/kylefirst/Parkinsons-Telemonitoring" target="_blank">here</a>
+
+
+---

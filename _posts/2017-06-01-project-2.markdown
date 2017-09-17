@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DIG
-modal-id: 1
+modal-id: 2
 date: 2017-06-01
 img: dig.png
 alt: image-alt
