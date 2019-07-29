@@ -2829,7 +2829,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 2em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2849,11 +2849,17 @@ input, select, textarea {
 				vertical-align: middle;
 			}
 
-			#header .logo .symbol {
+			#header .logo .profile {
 				margin-right: 0.65em;
 			}
 
-				#header .logo .symbol img {
+				#header .logo .profile-main img {
+					display: block;
+					width: 4em;
+					height: 4em;
+				}
+
+				#header .logo .profile img {
 					display: block;
 					width: 2em;
 					height: 2em;
