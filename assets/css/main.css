@@ -1864,6 +1864,35 @@ input, select, textarea {
 				background-color: rgba(242, 132, 158, 0.1);
 			}
 
+		.icon.style3 {
+			-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+			-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+			-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+			transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+			background-color: #f6f6f6;
+			border: solid 1px #c9c9c9;
+			border-radius: 4px;
+			width: 2.65em;
+			height: 2.65em;
+			display: inline-block;
+			text-align: center;
+			line-height: 2.65em;
+			color: inherit;
+		}
+
+			.icon.style3:before {
+				font-size: 1.1em;
+			}
+
+			.icon.style3:hover {
+				color: #f2849e;
+				border-color: #f2849e;
+			}
+
+			.icon.style3:active {
+				background-color: rgba(242, 132, 158, 0.1);
+			}
+
 /* List */
 
 	ol {
@@ -3156,7 +3185,6 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		flex-direction: row;
-		justify-content: center;
 	}
 
 	.copyright {
